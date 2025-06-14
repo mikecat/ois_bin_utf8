@@ -7,7 +7,7 @@
 
 [デコーダの実装](/decoder/bin_utf8_decode.ois)
 
-関連記事：TBD
+関連記事：[あの言語で2進UTF-8文字列のデコーダを作ってみた｜みけCAT](https://note.com/mi_ke_cat/n/n2baa142d0786)
 
 ## エンコーダ (通常の文字列 → 2進)
 
